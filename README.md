@@ -40,7 +40,7 @@ let your data path as following
 └── smpl_mean_params.npz
 ```
 
-download part of dataset_extras from [here]()
+download part of dataset_extras from [here](https://pan.baidu.com/s/1yIem3biHYD23-PpE82inOw?pwd=8yth)
 
 download smpl from [here](https://www.bing.com/search?q=smpl&cvid=57cea722454a4e58a2ec22a8fd748ba3&gs_lcrp=EgRlZGdlKgYIABBFGDsyBggAEEUYOzIGCAEQABhAMgYIAhBFGDsyBggDEAAYQDIGCAQQABhAMgYIBRBFGDwyBggGEEUYPDIGCAcQRRg8MgYICBBFGEHSAQgxMjg3ajBqOagCCLACAQ&FORM=ANAB01&adppc=EdgeStart&PC=LCTS)
 
